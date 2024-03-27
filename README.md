@@ -1,5 +1,5 @@
 # FaceRec
-Python face recognition algorithm to prevent my roommate from using my laptop.
+Python face recognition algorithm to prank and prevent my roommate from using my laptop. So if it finds a face named "Ludo" it will suspend the session and the script is closed.
 
 Using dlib and face_recognition lib through a CPU based model (hog) allow to recognize faces captured from the webcam with a certain accuracy displayed on screen.
 
